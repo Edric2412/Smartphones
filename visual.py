@@ -33,8 +33,8 @@ brand_data = df[df['Brand Name'] == selected_brand]
 st.subheader(f'Models of {selected_brand}')
 
 # Google Custom Search API setup
-api_key = 'AIzaSyBWL1K25cpXmjFGuB0BFYTwxsGdMF5Y4l0'  # Replace with your API key
-cse_id = '56fe5201f6c994bd5'  # Replace with your Custom Search Engine ID
+api_key = 'API_KEY'  # Replace with your API key
+cse_id = 'CSE_ID'  # Replace with your Custom Search Engine ID
 
 @st.cache_data
 def get_image_url(model_name):
