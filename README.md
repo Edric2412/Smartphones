@@ -38,7 +38,7 @@ This project aims to help customers make smart decisions when choosing a smartph
 
 ## 🖼️ Visualizations
 
-Includes 6 analytical visualizations (e.g., best battery, lowest price) and 1 interface image showcasing the Streamlit app.
+Includes 6 analytical visualizations for max and min analytics for performance, battery capacity, and price
 
 ---
 
