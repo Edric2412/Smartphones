@@ -32,7 +32,7 @@ This project aims to help customers make smart decisions when choosing a smartph
   - Integrated image fetching via Google Custom Search API
   - Interactive charts (via Plotly) based on Price, Battery, Processor Speed
 
-![Interface](Smartphones/Interface.png)
+![Interface](Interface.png)
 
 ---
 
